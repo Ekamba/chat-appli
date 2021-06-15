@@ -1,3 +1,5 @@
+Please click ⭐ if you like the project. Pull request are highly appreciated ❤️.
+
 # Live chat
 
 ![Live chat](https://i.ibb.co/ryV4MNx/Screenshot-4.png)
